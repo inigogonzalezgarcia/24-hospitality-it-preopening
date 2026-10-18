@@ -1,0 +1,7 @@
+id,risk,workstream,likelihood,impact,owner,mitigation,status
+R1,Internet circuits not delivered in time,Network and Wi-Fi,4,5,Iván Soto,"Bonded 4G/5G router as temporary internet, ordered as a back-up",open
+R2,Room-charge interface licence delayed by the vendors,POS and payments,3,4,Raúl Ortega,,open
+R3,Lock encoders delayed at customs,Door locks,2,5,Raúl Ortega,Mechanical master keys and paper key log for the first week,open
+R4,"Staff hired late, less time for training",Training and go-live,3,3,Marina Pons,Train the heads of department first; short videos per role,open
+R5,Card acquirer certification takes longer than planned,POS and payments,3,4,Raúl Ortega,Start the paperwork now; one terminal certified early as a pilot,open
+R6,Wi-Fi coverage gaps around the pool,Network and Wi-Fi,2,2,Iván Soto,Two outdoor access points added to the design,closed

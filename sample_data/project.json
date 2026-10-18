@@ -1,0 +1,44 @@
+{
+  "property": "Hotel Mirador del Puerto (fictional)",
+  "rooms": 120,
+  "outlets": [
+    "Restaurant",
+    "Lobby bar",
+    "Pool bar",
+    "Spa"
+  ],
+  "opening_date": "2027-01-15",
+  "as_of": "2026-10-18",
+  "gates": [
+    {
+      "code": "T-90",
+      "name": "Design frozen",
+      "days_before_opening": 90
+    },
+    {
+      "code": "T-60",
+      "name": "Infrastructure ready",
+      "days_before_opening": 60
+    },
+    {
+      "code": "T-30",
+      "name": "Systems installed",
+      "days_before_opening": 30
+    },
+    {
+      "code": "T-14",
+      "name": "Integrations tested",
+      "days_before_opening": 14
+    },
+    {
+      "code": "T-7",
+      "name": "People trained",
+      "days_before_opening": 7
+    },
+    {
+      "code": "T-1",
+      "name": "Ready to open",
+      "days_before_opening": 1
+    }
+  ]
+}
